@@ -1,4 +1,4 @@
----
+<!---
 title: "Values"
 image: /img/about-jumbotron.jpg
 values:
@@ -42,4 +42,4 @@ values:
       grown. You can see the communities grow and learn more about
       coffee farming on our blog.
     imageUrl: "/img/about-reinvest-profits.jpg"
----
+---!>
