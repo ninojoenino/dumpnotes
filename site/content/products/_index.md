@@ -1,4 +1,4 @@
----
+<!---
 title: Our Coffee
 type: products
 image: /img/products-jumbotron.jpg
@@ -97,6 +97,6 @@ pricing:
         - Unlimited varieties
       plan: Custom
       price: '?'
----
+---!>
 
 
